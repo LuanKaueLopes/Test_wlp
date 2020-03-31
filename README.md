@@ -5,4 +5,4 @@ Descrição
 
 Como rodar
 
-    Ao baixar projeto será necessário realizar download de todas as depenencias que o projeto utiliza.
+    Ao baixar projeto será necessário realizar download de todas as dependencias que o projeto utiliza.
